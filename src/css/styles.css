@@ -18,3 +18,13 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+li {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+div > :first-child {
+  font-size: 30px;
+  font-weight: 700;
+}
